@@ -99,6 +99,7 @@ body {
   color: #504dee;
 }
 .button {
+  display: inline-block;
   background: #504dee;
   color: #fbfbfc;
   border: none;
